@@ -5,31 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c69bc2b-22cf-4f2b-93ee-082e3ea16159" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/6.clojure-expl-testes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ClojureProjectResolveSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__nrepl_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_clojure_1_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_core_specs_alpha_0_2_44.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_spec_alpha_0_2_176.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_nrepl_incomplete_0_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hospital/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hospital/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hospital/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hospital/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hospital/doc/intro.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hospital/hospital.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hospital/project.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hospital/src/hospital/core.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hospital/src/hospital/logic.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hospital/src/hospital/model.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hospital/test/hospital/core_test.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hospital/test/hospital/logic_test.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,18 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "daytrevisan"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;daytrevisan&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/daytrevisan/6-Clojure-ExploringTests.git",
-    "accountId": "b2235b93-aaea-48d0-97ca-39cf18844264"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/daytrevisan/6-Clojure-ExploringTests.git&quot;,
+    &quot;accountId&quot;: &quot;b2235b93-aaea-48d0-97ca-39cf18844264&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -63,14 +40,16 @@
   "keyToString": {
     "Clojure REPL.REPL for hospital.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "clojure.test.Run tests in hospital.logic-test.executor": "Run",
     "git-widget-placeholder": "master",
+    "ignore.preview.features.used": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/dayane.trevisan/IdeaProjects/clojure-curso/6.clojure-expl-testes",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
   <component name="ReplState" timestamp="1739489442065">{:repl-history {:ide [], :local [{:command &quot;(:raio-x {})&quot;, :offset 12, :ns &quot;hospital.core&quot;} {:command &quot;(count nil)&quot;, :offset 11, :ns &quot;hospital.core&quot;} {:command &quot;(seq ())&quot;, :offset 8, :ns &quot;hospital.core&quot;}], :remote []}}</component>
